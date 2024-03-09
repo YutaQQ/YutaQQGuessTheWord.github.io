@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  .word {
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  
+  .attempts {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .letters {
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  
+  .letters button {
+    padding: 5px 10px;
+    margin:  5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
